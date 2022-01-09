@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Bugs
 - 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate future technologies.
-- 📫 How to reach me @NTHacked
+- 📫 Reach me @NTHacked
 
 <!---
 NTHacked/NTHacked is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
